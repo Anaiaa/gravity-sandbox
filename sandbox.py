@@ -1,5 +1,6 @@
 # Gravity Sandbox - Stage 1: a ball that falls and bounces
-#
+# I'm building this to learn Python and physics (pygame).
+# Built with help from Claude as a tutor. I type and work through each part myself.
 # Setup (one time):   pip install pygame
 # Click anywhere in the window to drop the ball from that spot.
 
